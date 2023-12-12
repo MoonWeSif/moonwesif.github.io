@@ -37,7 +37,7 @@ index:
       method: "GET"
       headers: {}
       keys: ["msg"]
-
+  banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
 
 post:
   meta:
