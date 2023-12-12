@@ -27,7 +27,19 @@ navbar:
       }
 
 index:
-  ##进入后的打字机，横条
+  # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
+  # Path of Banner image, can be a relative path or an absolute path, the same on other pages
+  banner_img: /img/default1.png
+
+  # 头图高度，屏幕百分比
+  # Height ratio of banner image
+  # Available: 0 - 100
+  banner_img_height: 100
+
+  # 头图黑色蒙版的不透明度，available: 0 - 1.0， 1 是完全不透明
+  # Opacity of the banner mask, 1.0 is completely opaque
+  # Available: 0 - 1.0
+  banner_mask_alpha: 0.3
   slogan:
     enable: true
     text: 欢迎来到Syferie的博客
@@ -37,7 +49,6 @@ index:
       method: "GET"
       headers: {}
       keys: ["msg"]
-  banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
 
 post:
   meta:
