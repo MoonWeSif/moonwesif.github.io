@@ -4,9 +4,10 @@ categories:
 - 技术
 date: '2023-12-12T22:03:47.869078+08:00'
 excerpt: 十分好用的一个PPT快速制作网站，生成的PPT风格现代化，很耐看。
+index_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
 tags: []
 title: Gamma Plus账号以及搭配GPT使用.md
-updated: '2023-12-13T15:04:38.925+08:00'
+updated: '2023-12-13T18:15:53.144+08:00'
 ---
 ### Gamma的相关说明
 
