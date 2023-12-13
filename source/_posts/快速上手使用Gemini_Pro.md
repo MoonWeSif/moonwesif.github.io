@@ -4,9 +4,10 @@ categories:
 - - 教程
 date: '2023-12-12T22:08:18.042081+08:00'
 excerpt: Google新发布的大模型，相较于GPT系列有全面的提升，看完视频和这个教程，直接让你遥遥领先他人，先用上更加强大的AI
+index_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
 tags: []
 title: 快速上手使用Gemini_Pro
-updated: '2023-12-12T22:08:19.252+08:00'
+updated: '2023-12-13T18:17:00.877+08:00'
 ---
 ## 如何注册
 
