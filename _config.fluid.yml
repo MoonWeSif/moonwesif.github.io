@@ -52,6 +52,7 @@ index:
 
 post:
   banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
+  default_index_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
   meta:
     #文章大标题下面的信息
     views:  # 阅读次数
