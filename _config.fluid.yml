@@ -120,6 +120,8 @@ about:
 #---------------------------
 archive:
   banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
+  banner_img_height: 60
+  banner_mask_alpha: 0.3
   
 #---------------------------
 # 分类页
@@ -139,4 +141,3 @@ tag:
   
 links:
   enable: false
-  banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
