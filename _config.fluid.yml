@@ -29,7 +29,7 @@ navbar:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/default1.png
+  banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -51,6 +51,7 @@ index:
       keys: ["msg"]
 
 post:
+  banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
   meta:
     #文章大标题下面的信息
     views:  # 阅读次数
@@ -100,7 +101,7 @@ twikoo:
 
 about:
   enable: true
-  banner_img: /img/default.png
+  banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: /img/avatar.png
@@ -112,3 +113,30 @@ about:
     - { class: "iconfont icon-github-fill", link: "https://github.com", tip: "GitHub" }
     - { class: "iconfont icon-douban-fill", link: "https://douban.com", tip: "豆瓣" }
     - { class: "iconfont icon-wechat-fill", qrcode: "/img/favicon.png" }
+    
+#---------------------------
+# 归档页
+# Archive Page
+#---------------------------
+archive:
+  banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
+  
+#---------------------------
+# 分类页
+# Category Page
+#---------------------------
+category:
+  enable: true
+  banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
+  
+#---------------------------
+# 标签页
+# Tag Page
+#---------------------------
+tag:
+  enable: true
+  banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
+  
+links:
+  enable: false
+  banner_img: https://img.gejiba.com/images/166a225def60864779d0386c4a7e6b11.jpg
